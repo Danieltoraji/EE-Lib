@@ -52,15 +52,16 @@ And more to come!
 
 ## 使用教程
 - 对于collaborators，可以直接在原repo上传文件，但建议新开一个branch；
-- 对于其他任何github用户，fork本repo后在自己账号下增删文件。
-- 以上编辑完毕后，提交pull request。
+- 对于其他任何github用户，fork本repo后在自己账号下增删文件。大家可以把复刻来的repo设为private当网盘用，也可以偶尔把希望贡献的文件提交pull request.
 
 （有待完善）
 ## 声明和规范
 - 目前拟采用根目录下直接存放相应课程文件夹的结构，命名为“课程名+编号”。
 - 若有教材讲义等侵权的情况，提交issue或联系collaborators，我们会予以彻底删除。
+- 大于25m的文件请上传到清华网盘，并编写一个readme.md以贴上共享链接。
 
 （待补充）  
 
 - 钉小呆，2025.9.14  
 Pillowe, 2025.9.18
+- 发自我的电脑
