@@ -49,7 +49,7 @@
 
 
 
-And more to come!
+持续更新中！
 
 ## 使用教程
 - 对于collaborators，可以直接在原repo上传文件，但建议新开一个branch；
